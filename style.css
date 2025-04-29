@@ -90,7 +90,6 @@ h4 {
 
 .icon  {
     width: 130px;
-    position: fixed;
     z-index: 99;
     margin: -35px;
 }
